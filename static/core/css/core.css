@@ -1,0 +1,38 @@
+/* Font */
+.st-font {
+  font-family: "Satisfy";
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.container-fluid {
+  min-height: 100%;
+}
+
+/* Service Icon Color */
+.i-color {
+  color: chartreuse;
+}
+
+/* Service Subtitle Color */
+.ss-color {
+  color: silver;
+}
+
+a.nav-link {
+  color: whitesmoke;
+}
+
+a.nav-link:hover {
+  color: white;
+  background-color: green;
+}
+
+a.nav-link.active {
+  color: white;
+  background-color: darkmagenta;
+  font-weight: bold;
+}
